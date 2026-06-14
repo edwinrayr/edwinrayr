@@ -10,7 +10,7 @@
 
 Soy un desarrollador apasionado por la creación de aplicaciones web modernas, rápidas y accesibles. Lidero la construcción de interfaces de usuario inmersivas (arquitecturas "Edge-to-Edge") y sistemas con un alto enfoque en el diseño visual. Me concentro fuertemente en el rendimiento técnico, la optimización para motores de búsqueda (SEO) y en llevar la experiencia de usuario (UI/UX) al siguiente nivel.
 
-* 🎓 Estudiante de Ingeniería en Computación en la **UAEMex** (Graduación: Dic 2026).
+* 🎓 Estudiante de Ingeniería en Computación en la **UAEMex** (Graduación: Jul 2026).
 * 💼 Actualmente desarrollando el core web y liderando la UI/UX en **eSoft Pasion** y **Nedimi**.
 * ⚡ Especializado en ecosistemas modernos y escalables: **React, TypeScript, Tailwind v4 y Vite**.
 
